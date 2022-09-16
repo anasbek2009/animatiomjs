@@ -62,4 +62,4 @@ function change(){
 
 setTimeout(function(){
     change()
-} ,3000)
+} ,30000)
