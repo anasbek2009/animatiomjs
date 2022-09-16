@@ -9,4 +9,4 @@ function creatCirle(){
 
 setInterval(function(){
     creatCirle()
-} ,20)
+} ,2000)
